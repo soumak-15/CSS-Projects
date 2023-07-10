@@ -1,0 +1,17 @@
+h1
+{
+    position:absolute;
+    top:30px;
+    left:60px;
+    color:blue;
+    background-color: pink;
+}
+
+p
+{
+    position:absolute;
+    top:30px;
+    left:60px;
+    color:blue;
+    background-color: pink;  
+}
